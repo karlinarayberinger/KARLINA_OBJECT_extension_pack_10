@@ -8,7 +8,7 @@
 
 karbytes_0: "I decided that, in KARLINA_OBJECT_extension_pack_10, I will strive to only focus on engineering-oriented subject matter to the exclusion of social justice matters such as racism and sexism."
 
-karbytes_1: "Then people will assume that you being white supremacist and sexist in favor of males (because the subject matter you want to focus on in this chapter is considered by many people to be exclusive towards non-white people and women)."
+karbytes_1: "Then people will assume that you are being white supremacist and sexist in favor of males (because the subject matter you want to focus on in this chapter is considered by many people to be exclusive towards non-white people and women)."
 
 karbytes_0: "I disagree that the subject matter which I want to focus on in this chapter is favorist towards any particular race or gender or that such subject matter is not something non-white people or women are able to participate and even excel in."
 
