@@ -1,5 +1,3 @@
-
-
 /**
  * file: karbytes_11_april_2024.txt
  * type: plain-text
