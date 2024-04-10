@@ -277,3 +277,15 @@ https://twitter.com/karbytes/status/1778181799933583393
 tweet_text:
 
 A tweet to (possibly) delete: people will not improve their conduct until they feel better. #public_service_announcement #human_nature #changing_the_world
+
+* * *
+
+On 10_APRIL_2024 at approximately 4:30PM Pacific Standard Time, karbytes replied to the karbytes-created tweet which is mentioned in the section above this section of this note on karbytes' Twitter dot Com page:
+
+tweet_reply_url:
+
+https://twitter.com/karbytes/status/1778204517676593470
+
+tweet_reply_text:
+
+In hindsight, I could just as easily say that people will not improve their conduct unless they are in enough pain to be coerced into changing.
