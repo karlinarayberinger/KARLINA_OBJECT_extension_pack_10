@@ -293,3 +293,24 @@ In hindsight, I could just as easily say that people will not improve their cond
 * * *
 
 On 10_APRIL_2024 at approximately 4:30PM Pacific Standard Time, karbytes deleted the karbytes-created tweet reply and the corresponding karbytes-created tweet mentioned in the previous two sections of this note from karbytes' Twitter dot Com page (and karbytes deleted the social media post depicting a screenshot of that tweet from karbytes' Minds dot Com page, from karbytes' LinkedIn dot Com page, and from karbytes' Patreon dot Com page).
+
+* * *
+
+On 10_APRIL_2024 at approximately 9:00PM Pacific Standard Time, karbytes deleted the karbytes-created tweet reply to a tweet which someone other than karbytes created. karbytes also unliked that tweet (because karbytes thinks that a human individual's value to any human other than itself is conditionally based on the degree of utilitarian usefulness that human provides to that human other than itself).
+
+tweet_karbytes_replied_to_(url):
+
+https://twitter.com/Dr_Singularity/status/1778151365006475644
+
+tweet_karbytes_replied_to_(text):
+
+Fear of AI overtaking jobs misses the point. The real question is why so many of us tied human value to labor
+
+tweet_reply_url:
+
+https://twitter.com/karbytes/status/1778183245060055125
+
+tweet_reply_text:
+
+Good question! My answer is that humans are not yet prepared to find meaning in their lives outside of the soon-to-be-obsolete roles they have complacently resigned themselves to. Change is uncomfortable and hence vehemently resisted by such humans. Change is an acquired taste.
+
