@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 12_APRIL_2024
+ * date: 13_APRIL_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -361,3 +361,10 @@ https://karbytesforlifeblog.wordpress.com/proposed_principles_of_global_governan
 On 12_APRIL_2024 at approximately 11:00PM Pacific Standard Time, karbytes re-posted (after unposting) the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
 
 https://karbytesforlifeblog.wordpress.com/a_golden_egotism/
+
+* * *
+
+On 13_APRIL_2024 at approximately 12:30PM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created web page from karbytes' Twitter dot Com page, from karbytes' Minds dot Com page, from karbytes' LinkedIn dot Com page, and from karbytes' Patreon dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/a_golden_egotism/
+
