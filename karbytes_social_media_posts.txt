@@ -1,9 +1,9 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 13_APRIL_2024
+ * date: 14_APRIL_2024
  * author: karbytes
- * license: PUBLIC_DOMAIN 
+ * license: PUBLIC_DOMAIN
  */
 
 On 25_MARCH_2024 at approximately 11:30PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
@@ -19,6 +19,7 @@ https://karlinaobject.wordpress.com/nature/
 * * *
 
 On 29_MARCH_2024 at approximately 10:00PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
+
 
 https://karbytesforlifeblog.wordpress.com/karbytes_30_march_2024/
 
@@ -168,7 +169,7 @@ https://karbytesforlifeblog.wordpress.com/survival_and_merit/
 
 On 09_APRIL_2024 at approximately 1:00AM Pacific Standard Time, karbytes shared the following news article as a social media post on karbytes' Twitter dot Com page and on karbytes' Minds dot Com page:
 
-https://phys.org/news/2024-04-scientists-propagation-interacting-bosonic.html
+https://phys.org/news/2024-04-scientists-propagation-interacting-bosonic.html 
 
 * * *
 
@@ -373,3 +374,9 @@ https://karbytesforlifeblog.wordpress.com/a_golden_egotism/
 On 13_APRIL_2024 at approximately 3:30PM Pacific Standard Time, karbytes shared the following news article as a social media post on karbytes' Twitter dot Com page and on karbytes' Minds dot Com page:
 
 https://www.scientificamerican.com/article/physicists-finally-know-how-the-strong-force-gets-its-strength/
+
+* * *
+
+On 14_APRIL_2024 at approximately 4:30PM Pacific Standard Time, karbytes shared the following news article as a social media post on karbytes' Twitter dot Com page and on karbytes' Minds dot Com page:
+
+https://thequantuminsider.com/2024/04/13/princeton-university-researchers-make-breakthrough-in-connecting-distant-quantum-devices/
